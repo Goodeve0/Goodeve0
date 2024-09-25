@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
-![Visitor Count](https : //profile-counter.glitch.me/Goodeve0/count.svg)
-```
+
+<img src="https://profile-counter.deno.dev/Goodeve0/count.svg" alt="Key:: Visitor's Count" />
